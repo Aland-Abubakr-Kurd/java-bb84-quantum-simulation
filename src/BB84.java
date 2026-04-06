@@ -4,7 +4,6 @@
 import java.util.Random;
 import java.util.Scanner;
 
-
 // BB84 simulates the first quantum cryptography protocol proposed in 1984.
 // It demonstrates how Alice and Bob can generate a perfectly secure shared
 // secret key, and how the laws of quantum mechanics guarantee that an
